@@ -8,9 +8,13 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "gitignore": "^0.6.0"
+    "gitignore": "^0.6.0",
+    "sequelize": "^5.8.12"
   },
   "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.18.0",
     "nodemon": "^1.19.1",
     "sucrase": "^3.10.1"
   }
